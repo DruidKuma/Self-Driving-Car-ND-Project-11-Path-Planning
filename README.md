@@ -17,6 +17,8 @@ As per requirements, the car meets the following:
 - stay in lane except for changing lanes
 - change lanes when needed (e.g. for passing another vehicle)
 
+![](/result_img/result.png "Result")
+
 #### The algorithm explanation
 All the implementation can be roughly divided in the following steps:
 
